@@ -10,7 +10,7 @@ https://public.tableau.com/app/profile/jasmine.john4118/viz/SalesDashboard_16992
 
 This project creates RFM segmentation to understand retail customers' underlying buying patterns. Also, this project aims to generate recommendations for customised marketing strategies.
 
-# RFM Markrting Analysis with Tablaeu:
+# RFM Marketing Analysis with Tablaeu:
 
 Objective: This project creates RFM customer segmentation to understand retail customers' underlying buying patterns. Also, this project aims to generate recommendations for customized marketing strategies. 
 
