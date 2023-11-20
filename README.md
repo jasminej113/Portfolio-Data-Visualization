@@ -1,5 +1,5 @@
 # Portfolio-Data-Visualization
-This repository contains my Data Analytics portfolio projects ranging from SQL, Python, Tableau, Excel.
+This repository contains my Data Analytics portfolio projects ranging from Python, Tableau, & Excel.
 
 # Store Sales Dashboard:
 
